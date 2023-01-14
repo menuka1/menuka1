@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/menukatirosh" target="blank"><img src="https://img.shields.io/twitter/follow/menukatirosh?logo=twitter&style=for-the-badge" alt="menukatirosh" /></a> </p>
 
-- 🔭 I’m currently working on **SL TECHNOLOGY LAB**
+- 🔭 I’m currently working on **Mr Dino**
 
 - 🌱 I’m currently learning **Arduino Programming, Software Engineer, Drone Operating, Web Developing**
 
@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Arduino**
 
-- 📫 How to reach me **sl.technologylab@gmail.com**
+- 📫 How to reach me **infore@mrduino.com**
 
 - ⚡ Fun fact **I am Funny**
 
